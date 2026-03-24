@@ -1,44 +1,70 @@
-# Hey there! I'm Abhay Narayan Dwivedi  
-Data Analyst | Web Developer | AI & ML Enthusiast  
+# Hi, I'm Abhay Narayan Dwivedi
 
-## About Me  
-I'm Abhay Narayan Dwivedi, a B.Tech student in Mathematics and Computing at the Central University of Karnataka. My work focuses on Data Analytics, Web Development, and AI/ML, where I enjoy solving real-world problems using data-driven insights and intelligent automation.  
+**RL Researcher · Deep Learning · Computer Vision**  
+B.Tech Mathematics & Computing, Central University of Karnataka (2023–2027)
 
-- **Currently working on:** AI-Powered Web Apps & Predictive Analytics  
-- **Favorite tools:** Python, SQL, Power BI, OpenCV, Scikit-learn, JavaScript  
-- **Hobbies:** Exploring new technology, coding innovative solutions, and optimizing processes  
+![IEEE ICC 2025](https://img.shields.io/badge/IEEE%20ICC%202025-Published-2ea44f?style=flat-square)
+![IJCAI-ECAI 2026](https://img.shields.io/badge/IJCAI--ECAI%202026-Under%20Review%20%7C%20Tier--1-7c3aed?style=flat-square)
+![IIT Mandi](https://img.shields.io/badge/Intern-IIT%20Mandi-0ea5e9?style=flat-square)
 
-## Projects I’m Proud Of  
-- **[Product Sales Analysis](https://github.com/abhaydwived/Product-Sales-Analysis)** - Analyzed Amazon electronics sales data to identify market trends.  
-- **[Customer Churn Prediction](https://github.com/abhaydwived/coustomer_churn-Prediction)** - Built ML models to predict customer churn with 78% ROC-AUC.  
-- **[Hand Tracking Virtual Painter](https://github.com/abhaydwived/AI-ML-Projects/tree/main/Virtual%20Painter)** - A real-time gesture-based drawing app using OpenCV & MediaPipe.  
-- **[TaskMate - Simple Task Manager](https://abhaydwived.github.io/TaskMate/)** - A web-based task organizer for better productivity.  
+---
 
-## Learning & Experimenting  
-- **Data Analytics & ML**: Building predictive models and insights using Python, Pandas, and Scikit-learn.  
-- **Web Development**: Developing interactive web apps using JavaScript, Node.js, and MongoDB.  
-- **Computer Vision**: Implementing real-time image processing and AI automation with OpenCV.  
+## About me
 
-## Where You Can Find Me  
-- **LinkedIn** - [Connect with me](https://www.linkedin.com/in/abhay-dwived/)  
-- **GitHub** - [Check out my work](https://github.com/abhaydwived)  
+I work at the intersection of Reinforcement Learning, robotics, and applied Deep Learning. My research focuses on biped locomotion, LLM-guided reward shaping, and hierarchical control systems. I enjoy building systems that are both theoretically grounded and practically deployable — from simulation environments to real-time computer vision applications.
 
-## Currently Seeking  
-I’m looking for opportunities in Data Analytics, AI, and Web Development, whether it's research, open-source contributions, or industry projects. If you're working on something interesting, let’s collaborate.  
+**Currently working on:** LLM-driven RL reward design.
 
-Feel free to reach out at **abhaydwivedi10122005@gmail.com**  
 
-<!--
-**abhaydwived/abhaydwived** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Publications
 
-Here are some ideas to get you started:
+**Learning Multi-Skill Locomotion in Underactuated Biped: A Waypoint-Based Reward Shaping Approach**  
+Published — IEEE ICC 2025 (International Peer-Reviewed Conference)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**UAV-Assisted Navigation of an Underactuated Biped via Soft Actor-Critic Reinforcement Learning**  
+Under review — IJCAI-ECAI 2026 (Tier-1 AI Conference)
+
+---
+
+## Featured projects
+
+### LLM-guided reward shaping for bipedal locomotion
+Closed-loop GPT-4 pipeline that autonomously refines RL reward functions across iterations — achieving ~69× improvement in forward locomotion distance and 67% reduction in torso tilt.  
+`GPT-4` `SAC` `PyBullet` `Gymnasium` `NumPy`
+
+### RL biped locomotion — IIT Mandi
+6–8 DOF underactuated biped trained with SAC, TD3, and DDPG over 10M+ steps. Integrated A* global path planning for hierarchical obstacle avoidance — 94% navigation success, 2% fall rate.  
+`PyBullet` `SAC` `TD3` `DDPG` `A*` `Gymnasium`
+
+### Face recognition attendance system
+Real-time contactless attendance with a 128-d face encoding pipeline, liveness detection (anti-spoofing via YuNet + custom ONNX model), and a secure admin dashboard with live video streaming.  
+`Flask` `OpenCV` `dlib` `face_recognition` `ONNX` `SQLite`
+
+### MNIST neural network from scratch
+Fully connected network built with NumPy only — manual forward/backward propagation, softmax activation, cross-entropy loss, and mini-batch gradient descent. 90%+ test accuracy.  
+`NumPy` `Matplotlib`
+
+### Hand tracking virtual painter
+Real-time gesture-controlled drawing system using hand landmark detection. Supports drawing, erasing, brush control, and color selection via gesture recognition.  
+`OpenCV` `MediaPipe` `NumPy`
+
+---
+
+## Skills
+
+**Languages** — Python, C++, JavaScript, SQL, Matlab, R  
+**ML / DL** — PyTorch, TensorFlow, Keras, Scikit-learn, NumPy, Pandas  
+**RL / Simulation** — Gymnasium, PyBullet, MuJoCo, Isaac Gym  
+**Computer Vision** — OpenCV, MediaPipe, dlib, ONNX  
+**Tools** — Git, Flask, SQLite, Power BI  
+
+---
+
+## Connect
+
+Open to research internships, collaborations, and interesting problems in RL, robotics, and deep learning.
+
+📧 abhaydwivedi10122005@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhay--dwived-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhay-dwived/)
+[![GitHub](https://img.shields.io/badge/GitHub-abhaydwived-181717?style=flat-square&logo=github)](https://github.com/abhaydwived)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-f97316?style=flat-square)]([https://abhaydwived.github.io/TaskMate/](https://abhaydwivedi-portfolio.vercel.app/))
