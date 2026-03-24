@@ -11,7 +11,7 @@ B.Tech Mathematics & Computing, Central University of Karnataka (2023–2027)
 
 ## About me
 
-I work at the intersection of Reinforcement Learning, robotics, and applied Deep Learning. My research focuses on biped locomotion, LLM-guided reward shaping, and hierarchical control systems. I enjoy building systems that are both theoretically grounded and practically deployable — from simulation environments to real-time computer vision applications.
+I work at the intersection of Reinforcement Learning, robotics, and applied Deep Learning. My research focuses on biped locomotion, Obstacle Avoidance, and LLM-guided reward shaping. I enjoy building systems that are both theoretically grounded and practically deployable — from simulation environments to real-time computer vision applications.
 
 **Currently working on:** LLM-driven RL reward design.
 
