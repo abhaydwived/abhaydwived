@@ -131,5 +131,5 @@ Open to **internship opportunities in Software Robotics, ML Engineering, and Dat
 
 📧 [abhaydwivedi10122005@gmail.com](mailto:abhaydwivedi10122005@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhay--dwived-0a66c2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/abhaydwived/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhay--dwived-0a66c2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/abhay-dwived/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-f97316?style=flat-square)](https://abhaydwivedi-portfolio.vercel.app/)
