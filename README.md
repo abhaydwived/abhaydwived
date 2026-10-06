@@ -66,13 +66,12 @@ Robotics & AI
 
 ## Research
 
-**IEEE ICC 2025 — Published**
+**IEEE ICC 2025 | Published**
 
-*Learning Multi-Skill Locomotion in Underactuated Biped: A Waypoint-Based Reward Shaping Approach*
+**Learning Multi-Skill Locomotion in Underactuated Biped: A Waypoint-Based Reward Shaping Approach**
 
-Research focused on reinforcement-learning-based multi-skill locomotion and waypoint-based reward shaping for underactuated bipedal robots.
-
-**Research interests:** Bipedal Locomotion · Robot Learning · Reinforcement Learning · Intelligent Control
+*A 6-DOF underactuated biped in PyBullet and benchmarked SAC, TD3 and DDPG on five locomotion tasks (standing, 
+push recovery, walking, uneven terrain, stair descent) using progressive waypoint reward shaping.*
 
 ---
 
@@ -87,19 +86,9 @@ Research focused on reinforcement-learning-based multi-skill locomotion and wayp
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaydwived&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaydwived&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
-
----
-
 ## Connect
 
 I’m interested in **robotics research, open-source robotics projects, and internship opportunities** in:
-
 **Robotics Software · Reinforcement Learning · Robot Learning · ML Engineering**
 
 📧 [abhaydwivedi10122005@gmail.com](mailto:abhaydwivedi10122005@gmail.com)
